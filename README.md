@@ -1,4 +1,4 @@
-# tornado-simulator — Roblox Physics Simulation
+# Tornado — Roblox Physics Simulation
 
 A server-side tornado simulation using parametric math and TweenService to animate debris absorption and realistic tornado movement.
 
